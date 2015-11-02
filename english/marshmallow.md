@@ -4,6 +4,8 @@
 
 One morning, you wake up in a strange room with marshmallows for walls.
 
+You realize that every marshmallow you eat slowly reveals a passage to a room full of [hostile dogs](hostile-dogs/hostile-dogs.md).
+
 Marshmallows smell funny. What is a marshmallow anyway?
 
 Unexpectedly, the Chief Marshmallow demands to see your [references](references/references.md).
